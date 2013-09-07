@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6052d0-5775-4325-bc7a-72fc7255a372" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/recipe_sharing_app.iml" afterPath="$PROJECT_DIR$/.idea/recipe_sharing_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="recipe_sharing_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6c6052d0-5775-4325-bc7a-72fc7255a372" time="1378588900117" ignored="false" />
     <file path="/user.rb" changelist="6c6052d0-5775-4325-bc7a-72fc7255a372" time="1378592360316" ignored="false" />
     <file path="/recipe.rb" changelist="6c6052d0-5775-4325-bc7a-72fc7255a372" time="1378592397782" ignored="false" />
+    <file path="$PROJECT_DIR$/db/schema.rb" changelist="6c6052d0-5775-4325-bc7a-72fc7255a372" time="1378593414996" ignored="false" />
+    <file path="/Gemfile" changelist="6c6052d0-5775-4325-bc7a-72fc7255a372" time="1378593778017" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +51,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="recipe.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/recipe.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="48" selection-start="110" selection-end="110" vertical-scroll-proportion="0.13100436">
+            <state line="6" column="73" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="56" selection-start="539" selection-end="539" vertical-scroll-proportion="0.5421687">
               <folding />
             </state>
           </provider>
@@ -93,6 +107,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/models/recipe.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -503,7 +518,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/recipe.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="48" selection-start="110" selection-end="110" vertical-scroll-proportion="0.13100436">
+        <state line="6" column="73" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="56" selection-start="539" selection-end="539" vertical-scroll-proportion="0.5421687">
           <folding />
         </state>
       </provider>
